@@ -6,7 +6,7 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 VERSION="2.0.0"
 
 ACCOUNTS=[
-"GCLZBHAR7QOPYDOVGLYF3JG5W2ZIKX2633GRFGW43JTVBAPZM6KO5IG"
+"GBL27HDAR7QOPYDOVGLYF3JG5WZ2IKX2633GRFGW43JTVBAPZM6KO5IG"
 ]
 
 [DOCUMENTATION]
@@ -17,7 +17,7 @@ ORG_LOGO="https://qfsfoundation.github.io/marsm/marsm.png"
 
 [[CURRENCIES]]
 code="MARSM"
-issuer="GCLZBHAR7QOPYDOVGLYF3JG5W2ZIKX2633GRFGW43JTVBAPZM6KO5IG"
+issuer="GBL27HDAR7QOPYDOVGLYF3JG5WZ2IKX2633GRFGW43JTVBAPZM6KO5IG"
 name="MARSM"
 desc="MarsM is a visionary project developed on the Stellar network – focused on extracting and tokenizing."
 display_decimals=2
