@@ -12,13 +12,13 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="MARSM"
 ORG_URL="https://qfsfoundation.github.io"
-ORG_DESCRIPTION="MarsM is a visionary project developed on the Stellar network – focused on extracting and tokenizing."
+ORG_DESCRIPTION="MarsM is a visionary project developed on the Stellar network - focused on extracting and tokenizing."
 ORG_LOGO="https://qfsfoundation.github.io/marsm/marsm.png"
 
 [[CURRENCIES]]
 code="MARSM"
 issuer="GBL27HDAR7QOPYDOVGLYF3JG5WZ2IKX2633GRFGW43JTVBAPZM6KO5IG"
 name="MARSM"
-desc="MarsM is a visionary project developed on the Stellar network – focused on extracting and tokenizing."
+desc="MarsM is a visionary project developed on the Stellar network - focused on extracting and tokenizing."
 display_decimals=2
 image="https://qfsfoundation.github.io/marsm/marsm.png"
