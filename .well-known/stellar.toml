@@ -4,7 +4,7 @@ ACCOUNTS = [
 
 [DOCUMENTATION]
 ORG_NAME="MARSM"
-ORG_URL="https://qfsfoundation.github.io/marsm/marsm.png"
+ORG_URL="https://qfsfoundation.github.io"
 ORG_DESCRIPTION="MarsM is a visionary project developed on the Stellar network — focused on extracting and tokenizing."
 
 ORG_LOGO="https://qfsfoundation.github.io/marsm/marsm.png"
